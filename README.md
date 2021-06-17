@@ -10,7 +10,7 @@ SO THAT our own site is optimized for search engines
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://daphne1014.github.io/module1/
 
 ## Contribution
 Made with ❤️ by Daphnehttps://github.com/daphne1014/run-buddy

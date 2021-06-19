@@ -10,7 +10,7 @@ SO THAT our own site is optimized for search engines
 * CSS
 
 ## Screenshot
-![screenshot of the page](./assets/images/Horiseon Webpage Capture.JPG?raw=true "Screenshot")
+![screenshot of the page](./assets/images/horiseon-webpage-capture.JPG?raw=true "Screenshot")
 
 ## Website
 https://daphne1014.github.io/module1/

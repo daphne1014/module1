@@ -9,6 +9,9 @@ SO THAT our own site is optimized for search engines
 * HTML
 * CSS
 
+## Screenshot
+![screenshot of the page](./assets/images/Horiseon Webpage Capture.JPG?raw=true "Screenshot")
+
 ## Website
 https://daphne1014.github.io/module1/
 
